@@ -1,4 +1,4 @@
-## Olá eu sou a Vitória Cruz, estudante de gestão da tecnolgia da programação!
+## Olá eu sou a Vitória Cruz, estudante de gestão da tecnolgia da informação!
 
 <div align="center">
   <a href="https://github.com/vickyy7">
