@@ -1,4 +1,4 @@
-## Olá eu sou a Vitória Cruz, estudante de Gestão de T.I
+## 👋 Olá eu sou a Vitória Cruz, estudante de Gestão de T.I
 
 <div align="center">
   <a href="https://github.com/vickyy7">
