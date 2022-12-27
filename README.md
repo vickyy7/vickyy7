@@ -10,7 +10,7 @@
   <img align="center" alt="Vicky-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vicky-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vicky-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Vicky-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202212/338224_yM4ZCNmW.png">
+  <img align="right" alt="Vicky-pic" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/YyWp0e2BDFuitR1w3P/giphy.gif?cid=790b7611199db0c70b987bf028a270e3d566a28763405f77&rid=giphy.gif&ct=g">
 </div>
   
   ##
