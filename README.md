@@ -7,7 +7,6 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Vicky-CM" height="30" widht="40" src="https://img.shields.io/github/commits-since/vickyy7/vickyy7/{version}.svg">
   <img align="center" alt="Vicky-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vicky-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vicky-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
