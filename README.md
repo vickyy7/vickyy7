@@ -25,7 +25,7 @@
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-![snake gif](https://github.com/vickyy7/vickyy7/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vickyy7/vickyy7/blob/output/github-contribution-grid-snake.svg)
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=vickyy7&repo=vickyy7&theme=react)](https://github.com/vickyy7/vickyy7)
  
